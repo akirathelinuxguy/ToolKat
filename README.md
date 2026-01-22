@@ -16,6 +16,7 @@ Quick snapshot of your system:
 - Terminal & shell
 - Disk usage
 - System uptime
+
 ### User Management Helper `--umh`
 Create, delete, lock, unlock, and list users with automatic logging. <br />
 - `--uhm create "user"` <br />
