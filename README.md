@@ -27,7 +27,7 @@ Searches `/var/log/` for common failure indicators:
 
 Great for quick troubleshooting.
 
-### 👥 User Management Helper (--umh)
+### User Management Helper (--umh)
 Create, delete, lock, unlock, and list users with automatic logging.
 
 Actions are logged to: /var/log/toolkat.log
