@@ -285,27 +285,5 @@ This is a fork of ToolKat from [Scryv](https://github.com/Scryv/ToolKat) with ad
 
 ---
 
-## Changelog
-
-### v2.0 (Current)
-- ✨ Added Performance Monitoring (`--perf`)
-  - System overview with CPU/memory/disk stats
-  - Detailed CPU information
-  - Memory usage breakdown
-  - Disk I/O statistics
-  - Process monitoring
-  - Temperature sensors
-- ✨ Added Package Management (`--pkg`)
-  - Support for xbps, pacman, and apt
-  - Auto-detection of package manager
-  - Full package lifecycle (install/remove/update/upgrade)
-  - Package search and info
-  - Cache cleaning
-- 🎨 Enhanced color output
-- 📝 Improved logging for new features
-- 🐛 Better error handling
-
-### v1.0
-- Base system info
 - User management
 - Log analyzer
