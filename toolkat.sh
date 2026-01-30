@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # ToolKat info
-TOOLKAT_VERSION="4.0.0"
+TOOLKAT_VERSION="1.0.0"
 TOOLKAT_DATE="2026-01-30"
 
 normal=$(printf '\033[0m')
